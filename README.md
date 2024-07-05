@@ -2,7 +2,7 @@
 
 # :two_hearts: Skylar Shaffer
 
-I am a Full-Stack Web Developer with a history in IT management. I specialize in serverless development and security research.
+I am a Full-Stack Web Developer with a history in IT management. I specialize in serverless applications and security research.
 
 ![Header](https://github.com/skylarshaffer/skylarshaffer/assets/161654841/921436e3-f794-4c9b-bd40-957c9045b3ba)
 

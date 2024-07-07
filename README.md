@@ -14,7 +14,7 @@ I’m currently working on a GraphQL introspection exploit and applying to jobs
 
 [![Email](https://img.shields.io/badge/Email-s%40skylarshaffer.com-708090?logo=mail.ru)](mailto:s@skylarshaffer.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-skylarshaffer-0072b1?logo=linkedin)](https://linkedin.com/skylarshaffer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-skylarshaffer-0072b1?logo=linkedin)](https://www.linkedin.com/in/skylarshaffer/)
 
 
 

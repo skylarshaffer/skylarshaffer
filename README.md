@@ -14,10 +14,10 @@ I am happiest when my focus is shifting as frequently as possible. When I am not
 ## :computer: RN
 
 I’m currently working on:
+- [graph-test](https://github.com/skylarshaffer/graph-test): A tool for testing for GraphQL vulnerabilities by domain. Currently full-stack, attempting to migrate to serverless.
 - [brickinfo](https://github.com/skylarshaffer/brickinfo): A Chrome Extension that injects advanced pricing information for LEGO bricks when browsing LEGO shopping websites.
 - brickquery: A querying React application that automates Bricklink Wanted List creation and maintenance.
 - brickapi: A fresh approach to brick database and APIs that seeks to solve the "subjectivity" problem with unique, flexible, objective, and consistent nested variants.
-- [graph-test](https://github.com/skylarshaffer/graph-test): A tool for testing for GraphQL vulnerabilities by domain. Currently full-stack, attempting to migrate to serverless.
 - greeblify: A 2D graphic generator that creates brick greeble on the fly.
 - A novel GraphQL introspection exploit.
 

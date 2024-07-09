@@ -10,7 +10,7 @@ I find API vulnerabilities in my free time, and I am especially passionate about
 
 I’m currently working on:
 - A novel GraphQL introspection exploit
-- brickinfo: A Chrome Extension that injects advanced pricing information for LEGO bricks when browsing LEGO shopping websites
+- [brickinfo](https://github.com/skylarshaffer/brickinfo): A Chrome Extension that injects advanced pricing information for LEGO bricks when browsing LEGO shopping websites
 - brickquery: A querying React application that automates Bricklink Wanted List creation and maintenance
 - brickapi: A fresh approach to brick database and APIs that seeks to solve the "subjectivity" problem with unique, flexible, objective, and consistent nested variants.
 

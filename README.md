@@ -23,7 +23,7 @@ I’m currently jumping between:
 - skylarshaffer.com - My portfolio website
 - A novel GraphQL introspection exploit.
 
-If any of those pique your interest, please talk to me about them! :)
+If any of those pique your interest, ask me about them! :)
 
 ## :link: Links
 

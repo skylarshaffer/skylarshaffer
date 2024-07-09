@@ -38,5 +38,3 @@ I’m currently working on:
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylarshaffer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-

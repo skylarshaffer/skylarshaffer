@@ -1,25 +1,22 @@
-
-
 # :two_hearts: Skylar Shaffer
 
-I am a Full-Stack Web Developer with a history in IT management. I specialize in serverless applications and security research.
+I am a Full-Stack Web Developer with a history in IT management. I specialize in serverless applications and I find API vulnerabilities in my free time. I am especially passionate about the LEGO system and my goal is to better encompass and standardize how we understand it.
 
 ![Header](https://github.com/skylarshaffer/skylarshaffer/assets/161654841/921436e3-f794-4c9b-bd40-957c9045b3ba)
 
 ## :computer: RN
 
-I’m currently working on a GraphQL introspection exploit and applying to jobs
+I’m currently working on:
+- A novel GraphQL introspection exploit
+- brickinfo: A Chrome Extension that injects advanced pricing information for LEGO bricks when browsing LEGO shopping websites
+- brickquery: A querying React application that automates Bricklink Wanted List creation and maintenance
+- brickapi: A fresh approach to brick database and APIs that seeks to solve the "subjectivity" problem with unique, flexible, objective, and consistent nested variants.
 
 ## :link: Links
 
 [![Email](https://img.shields.io/badge/Email-s%40skylarshaffer.com-708090?logo=mail.ru)](mailto:s@skylarshaffer.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-skylarshaffer-0072b1?logo=linkedin)](https://www.linkedin.com/in/skylarshaffer/)
-
-
-
-
-
 
 ## :books: Stack
 

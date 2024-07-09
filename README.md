@@ -22,6 +22,8 @@ I’m currently jumping between:
 - auto-win: A drag-and-drop solution for Windows 10 install automation.
 - A novel GraphQL introspection exploit.
 
+If any of those pique your interest, please talk to me about them! :)
+
 ## :link: Links
 
 [![Email](https://img.shields.io/badge/Email-s%40skylarshaffer.com-708090?logo=mail.ru)](mailto:s@skylarshaffer.com)

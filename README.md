@@ -4,7 +4,7 @@ I am a Full-Stack Web Developer and recent LearningFuze graduate with team manag
 
 ![Header](https://github.com/skylarshaffer/skylarshaffer/assets/161654841/921436e3-f794-4c9b-bd40-957c9045b3ba)
 
-I am happiest when my focus is shifting as frequently as possible. When I am not coding, I am sorting LEGO or finding API vulnerabilities. My unrealistic goal is to create the definitive, perfect LEGO part classification system.
+I am happiest when my focus is shifting as frequently as possible. When I am not coding, I am sorting LEGO or finding API vulnerabilities. My unrealistic goal is to create the definitive LEGO part classification system.
 
 ## :file_folder: Portfolio
 

@@ -13,7 +13,7 @@ I am happiest when my focus is shifting as frequently as possible. When I am not
 
 ## :computer: RN
 
-I’m currently working on:
+I’m currently jumping between:
 - [graph-test](https://github.com/skylarshaffer/graph-test): A tool for testing for GraphQL vulnerabilities by domain. Currently full-stack, attempting to migrate to serverless.
 - [brickinfo](https://github.com/skylarshaffer/brickinfo): A Chrome Extension that injects advanced pricing information for LEGO bricks when browsing LEGO shopping websites.
 - brickquery: A querying React application that automates Bricklink Wanted List creation and maintenance.

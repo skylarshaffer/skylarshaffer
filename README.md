@@ -4,7 +4,7 @@ I am a Full-Stack Web Developer and recent bootcamp graduate with team managemen
 
 ![Header](https://github.com/skylarshaffer/skylarshaffer/assets/161654841/921436e3-f794-4c9b-bd40-957c9045b3ba)
 
-I find API vulnerabilities in my free time, and I am especially passionate about the LEGO system. My loftiest goal is to create the end-all LEGO part classification system.
+I find API vulnerabilities in my free time, and I am happiest when my focus is shifting as frequently as possible. My loftiest goal is to create the end-all LEGO part classification system.
 
 ## :computer: RN
 

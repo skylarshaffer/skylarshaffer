@@ -19,6 +19,7 @@ I’m currently working on:
 - brickquery: A querying React application that automates Bricklink Wanted List creation and maintenance.
 - brickapi: A fresh approach to brick database and APIs that seeks to solve the "subjectivity" problem with unique, flexible, objective, and consistent nested variants.
 - greeblify: A 2D graphic generator that creates brick greeble on the fly.
+- auto-win: A drag-and-drop solution for Windows 10 install automation.
 - A novel GraphQL introspection exploit.
 
 ## :link: Links

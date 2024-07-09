@@ -1,6 +1,6 @@
 # :two_hearts: Skylar Shaffer
 
-I am a Full-Stack Web Developer and recent bootcamp graduate with team management experience from my years in IT. I specialize in serverless applications and security research.
+I am a Full-Stack Web Developer and recent bootcamp graduate with team management experience from my years in IT. I specialize in serverless React applications and security research.
 
 I find API vulnerabilities in my free time, and I am especially passionate about the LEGO system. My loftiest goal is to better encompass and standardize LEGO part classification.
 

@@ -6,6 +6,11 @@ I am a Full-Stack Web Developer and recent bootcamp graduate with team managemen
 
 I am happiest when my focus is shifting as frequently as possible. When I am not coding, I am sorting LEGO or finding API vulnerabilities. My unrealistic goal is to create the definitive, perfect LEGO part classification system.
 
+## :file_folder: Portfolio
+
+- [brickinfo](https://github.com/skylarshaffer/brickinfo): A Chrome Extension that injects advanced pricing information for LEGO bricks when browsing LEGO shopping websites.
+- [alterplates](https://github.com/skylarshaffer/alterplates): A front-end application for generating vanity license plate suggestions. This was a bootcamp project and is not being maintained.
+
 ## :computer: RN
 
 I’m currently working on:
@@ -15,9 +20,6 @@ I’m currently working on:
 - [graph-test](https://github.com/skylarshaffer/graph-test): A tool for testing for GraphQL vulnerabilities by domain. Currently full-stack, attempting to migrate to serverless.
 - greeblify: A 2D graphic generator that creates brick greeble on the fly.
 - A novel GraphQL introspection exploit.
-
-Bootcamp Project:
-- [alterplates](https://github.com/skylarshaffer/alterplates): A front-end application for generating vanity license plate suggestions.
 
 ## :link: Links
 

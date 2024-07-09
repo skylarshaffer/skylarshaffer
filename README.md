@@ -1,6 +1,6 @@
 # :two_hearts: Skylar Shaffer
 
-I am a Full-Stack Web Developer with team management experience from my years in IT. I specialize in serverless applications and security research.
+I am a Full-Stack Web Developer and recent bootcamp graduate with team management experience from my years in IT. I specialize in serverless applications and security research.
 
 I find API vulnerabilities in my free time, and I am especially passionate about the LEGO system. My loftiest goal is to better encompass and standardize LEGO part classification.
 
@@ -9,10 +9,14 @@ I find API vulnerabilities in my free time, and I am especially passionate about
 ## :computer: RN
 
 I’m currently working on:
-- A novel GraphQL introspection exploit
-- [brickinfo](https://github.com/skylarshaffer/brickinfo): A Chrome Extension that injects advanced pricing information for LEGO bricks when browsing LEGO shopping websites
-- brickquery: A querying React application that automates Bricklink Wanted List creation and maintenance
+- [brickinfo](https://github.com/skylarshaffer/brickinfo): A Chrome Extension that injects advanced pricing information for LEGO bricks when browsing LEGO shopping websites.
+- brickquery: A querying React application that automates Bricklink Wanted List creation and maintenance.
 - brickapi: A fresh approach to brick database and APIs that seeks to solve the "subjectivity" problem with unique, flexible, objective, and consistent nested variants.
+- [graph-test](https://github.com/skylarshaffer/graph-test): A tool for testing for GraphQL vulnerabilities by domain. Currently full-stack, attempting to migrate to serverless.
+- A novel GraphQL introspection exploit.
+
+Bootcamp Project:
+- [alterplates](https://github.com/skylarshaffer/alterplates): A front-end application for generating vanity license plate suggestions.
 
 ## :link: Links
 

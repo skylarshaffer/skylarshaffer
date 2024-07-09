@@ -1,6 +1,6 @@
 # :two_hearts: Skylar Shaffer
 
-I am a Full-Stack Web Developer and recent bootcamp graduate with team management experience from my years in IT. I specialize in serverless React applications and security research.
+I am a Full-Stack Web Developer and recent LearningFuze graduate with team management experience from my years in IT. I specialize in serverless React applications and security research.
 
 ![Header](https://github.com/skylarshaffer/skylarshaffer/assets/161654841/921436e3-f794-4c9b-bd40-957c9045b3ba)
 

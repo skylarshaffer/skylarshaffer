@@ -1,6 +1,6 @@
 # :two_hearts: Skylar Shaffer
 
-I am a Full-Stack Web Developer with a history in IT management. I specialize in serverless applications and I find API vulnerabilities in my free time. I am especially passionate about the LEGO system and my goal is to better encompass and standardize how we understand it.
+I am a Full-Stack Web Developer with team management experience from my years in IT. I specialize in serverless applications and I find API vulnerabilities in my free time. I am especially passionate about the LEGO system and my goal is to better encompass and standardize how we understand it.
 
 ![Header](https://github.com/skylarshaffer/skylarshaffer/assets/161654841/921436e3-f794-4c9b-bd40-957c9045b3ba)
 

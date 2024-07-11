@@ -20,8 +20,9 @@ I’m currently jumping between:
 - brickapi -  A fresh approach to brick database and APIs that seeks to solve the "subjectivity" problem with unique, flexible, objective, and consistent nested variants.
 - greeblify - A 2D graphic generator that creates brick greeble on the fly.
 - auto-win - A drag-and-drop solution for Windows 10 install automation.
-- skylarshaffer.com - My portfolio website
-- A novel GraphQL introspection exploit.
+- skylarshaffer.com - My portfolio website.
+- graph-trace - A Chrome Extension that builds partial GraphQL schemas by monitoring successful requests made by the browser.
+- graph-deduce - A novel, automated GraphQL introspection exploit.
 
 If any of those pique your interest, ask me about them! :)
 

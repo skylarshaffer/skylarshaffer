@@ -14,15 +14,15 @@ I am happiest when my focus is shifting as frequently as possible. When I am not
 ## :computer: RN
 
 I’m currently jumping between:
-- [graph-test](https://github.com/skylarshaffer/graph-test) -  A tool for testing for GraphQL vulnerabilities by domain. Currently full-stack, attempting to migrate to serverless.
 - [brickinfo](https://github.com/skylarshaffer/brickinfo) - A Chrome Extension that injects advanced pricing information for LEGO bricks when browsing LEGO shopping websites.
+- [graph-test](https://github.com/skylarshaffer/graph-test) -  A tool for testing for GraphQL vulnerabilities by domain. Currently full-stack, attempting to migrate to serverless.
 - brickquery - A querying React application that automates Bricklink Wanted List creation and maintenance.
 - brickapi -  A fresh approach to brick database and APIs that seeks to solve the "subjectivity" problem with unique, flexible, objective, and consistent nested variants.
 - greeblify - A 2D graphic generator that creates brick greeble on the fly.
 - auto-win - A drag-and-drop solution for Windows 10 install automation.
-- skylarshaffer.com - My portfolio website.
 - graph-trace - A Chrome Extension that builds partial GraphQL schemas by monitoring successful requests made by the browser.
 - graph-deduce - A novel, automated GraphQL introspection exploit.
+- skylarshaffer.com - My portfolio website.
 
 If any of those pique your interest, ask me about them! :)
 

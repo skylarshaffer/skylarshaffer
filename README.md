@@ -8,8 +8,13 @@ I am happiest when my focus is shifting as frequently as possible. When I am not
 
 ## :file_folder: Portfolio
 
+### Application
 - [brickinfo](https://github.com/skylarshaffer/brickinfo) - A Chrome Extension that injects advanced pricing information for LEGO bricks when browsing LEGO shopping websites.
+
+### Full-Stack
 - [graph-test](https://github.com/skylarshaffer/graph-test) - A tool for testing for GraphQL vulnerabilities by domain. Currently full-stack, attempting to migrate to serverless.
+
+### Front-End
 - [alterplates](https://github.com/skylarshaffer/alterplates) - A front-end application for generating vanity license plate suggestions. This was a bootcamp project and is not being maintained.
 
 ## :computer: RN

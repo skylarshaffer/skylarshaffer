@@ -12,7 +12,7 @@ I am happiest when my focus is shifting as frequently as possible. When I am not
 - [brickinfo](https://github.com/skylarshaffer/brickinfo) - A powerful and wicked fast Chrome Extension that injects advanced pricing information for LEGO bricks when browsing LEGO shopping websites.
 
 ### Full-Stack
-- [graph-test](https://github.com/skylarshaffer/graph-test) - A tool for testing for GraphQL vulnerabilities by domain. Currently full-stack, attempting to migrate to serverless.
+- [entraspection](https://github.com/skylarshaffer/entraspection) - A tool for testing for GraphQL vulnerabilities by domain. Currently full-stack, attempting to migrate to serverless.
 
 ### Front-End
 - [alterplates](https://github.com/skylarshaffer/alterplates) - A front-end application for generating vanity license plate suggestions. This was a bootcamp project and is not being maintained.
@@ -21,8 +21,8 @@ I am happiest when my focus is shifting as frequently as possible. When I am not
 
 I’m currently jumping between:
 - [brickinfo](https://github.com/skylarshaffer/brickinfo) - A Chrome Extension that injects advanced pricing information for LEGO bricks when browsing LEGO shopping websites.
-- [graph-test](https://github.com/skylarshaffer/graph-test) -  A tool for testing for GraphQL vulnerabilities by domain. Currently full-stack, attempting to migrate to serverless.
-- [entraspection](https://github.com/skylarshaffer/entraspection) - A Chrome Extension that builds partial GraphQL schemas by monitoring successful requests made by the browser.
+- [entraspection](https://github.com/skylarshaffer/entraspection) -  A tool for testing for GraphQL vulnerabilities by domain. Currently full-stack, attempting to migrate to serverless.
+- [entraspection Extension](https://github.com/skylarshaffer/entraspection-extension) - A Chrome Extension that builds partial GraphQL schemas by monitoring successful requests made by the browser.
 - brickquery - A querying React application that automates Bricklink Wanted List creation and maintenance.
 - brickapi -  A fresh approach to brick database and APIs that seeks to solve the "subjectivity" problem with unique, flexible, objective, and consistent nested variants.
 - greeblify - A 2D graphic generator that creates brick greeble on the fly.

@@ -20,7 +20,7 @@ I am happiest when my focus is shifting as frequently as possible. When I am not
 ## :computer: RN
 
 I’m currently jumping between:
-- [entraspection Extension](https://github.com/skylarshaffer/entraspection-extension) - A Chrome Extension that builds partial GraphQL schemas by monitoring successful requests made by the browser.
+- entraspection Extension - A Chrome Extension that builds partial GraphQL schemas by monitoring successful requests made by the browser.
 - brickquery - A querying React application that automates Bricklink Wanted List creation and maintenance.
 - brickapi -  A fresh approach to brick database and APIs that seeks to solve the "subjectivity" problem with unique, flexible, objective, and consistent nested variants.
 - greeblify - A 2D graphic generator that creates brick greeble on the fly.
